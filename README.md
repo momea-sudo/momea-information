@@ -39,7 +39,7 @@
 
 ## 📬 Connect with Me
 <p align="left">
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/invite/momea_9121" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
