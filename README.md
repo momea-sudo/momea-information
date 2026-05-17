@@ -31,9 +31,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Momya's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momea-sudo&show_icons=true&theme=tokyonight&count_private=true" alt="Momya's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momea-sudo&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
+
+---
+
+### 📈 Most Used Languages (Estimated)
+* **Python** ── 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 50%
+* **C++** ──── 🟦🟦🟦🟦🟦🟦🟦🟦 25%
+* **Web (HTML/CSS/JS)** ─ 🟨🟨🟨🟨🟨🟨🟨🟨 25%
 
 ---
 
